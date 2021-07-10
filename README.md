@@ -11,6 +11,7 @@ hixploit is a python tool that will give you the opportunity to gather all hikvi
 
 # Install
 git clone https://github.com/dedsec-xo/hikxploit
+
 python3 -m pip install -r requirements.txt
 
 # Usage
