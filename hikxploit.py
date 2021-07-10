@@ -4,7 +4,7 @@ import argparse
 import pandas
 
 import shodan 
-
+import re
 
 class Hikxploit:
     def __init__(self, api):
