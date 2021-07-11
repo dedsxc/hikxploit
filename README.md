@@ -1,7 +1,5 @@
 # hikxsploit
 
-Fork of https://github.com/M0tHs3C/Hikxploit
-
 Official exploit release : https://www.exploit-db.com/exploits/44328
 
 # Description
@@ -17,7 +15,7 @@ It exploits a backdoor in Hikvision camera firmware versions 5.2.0 - 5.3.9 (Buil
 5. Write into csv file all cameras which have been exploited successfully
 
 # Install
-git clone https://github.com/dedsec-xo/hikxploit
+git clone https://github.com/dedsxc/hikxploit
 
 python3 -m pip install -r requirements.txt
 
