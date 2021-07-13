@@ -23,3 +23,7 @@ python3 -m pip install -r requirements.txt
 1. Get your API key in shodan.io
 2. Modify hikxploit.py file for : shodan_api_key="YOUR_API_KEY"
 3. Launch the script
+
+
+## Disclaimer
+legal disclaimer: Usage of hikxploit for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
